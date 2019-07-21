@@ -1,0 +1,14 @@
+.container-cat .row.rowcat .col-12{
+  display: flex !important;
+  flex-direction: row !important;
+}
+.action_boutons{
+  padding-left: 10px;
+  display:none;
+}
+.rowcat{
+  cursor: pointer;
+}
+.rowcat:hover .action_boutons{
+  display:block;
+}

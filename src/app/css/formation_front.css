@@ -1,0 +1,7 @@
+.hidden{
+  display: none;
+}
+select{
+  width: 33%;
+  float:left;
+}
